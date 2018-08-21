@@ -1,7 +1,5 @@
 # archaius_object_support
-extend the Netflix [Archaius](https://github.com/Netflix/archaius) to have dynamic object support
-
-Archaius is a very powerful library for configuration management, however, it only support primitive type.
+[Archaius](https://github.com/Netflix/archaius) is a very powerful library for configuration management, however, it only support primitive type.
 This small project is coming from a real project in my work. It provides Dynamic object support within Archaius.
 
 ### an example
