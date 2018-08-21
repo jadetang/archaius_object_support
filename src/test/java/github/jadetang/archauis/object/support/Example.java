@@ -1,7 +1,6 @@
-package support;
+package github.jadetang.archauis.object.support;
 
 import com.netflix.config.ConfigurationManager;
-import github.jadetang.archauis.object.support.DynamicObjectProperty;
 
 public class Example {
 
